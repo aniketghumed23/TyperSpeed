@@ -31,7 +31,7 @@ To set up this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd typing-speed-test
+   cd TyperSpeed
    ```
 3. Open `index.html` in your web browser.
 
